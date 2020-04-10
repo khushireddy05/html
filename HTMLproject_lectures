@@ -1,0 +1,46 @@
+<html>
+<body bgcolor=slaty>
+<font color=yellow size=8><center>Concepts and Basic of c++ Programing</center></font><br>
+<font color=yellow size=8>object-orienteation</font><br>
+<font color=blue>A thinking methodology</font><br>
+
+<font color=blue><font color=yellow>*</font>Everything is an object.</font><br>
+<font color=blue><font color=yellow>*</font>Any system is composed of objects.</font><br>
+<font color=blue><font color=yellow>*</font>The evolution and development of a system
+is caused by the interaction of the objects inside/outside a system.</font><br>
+
+<font color=yellow size=8>Everything is an object</font><br>
+<font color=blue><font color=yellow>*</font>A student,a professor.</font><br>
+<font color=blue><font color=yellow>*</font>A desk,a chair,a classroom,a building.</font><br>
+<font color=blue><font color=yellow>*</font>A university,a city,a country.</font><br>
+<font color=blue><font color=yellow>*</font>The world,the universe.</font><br>
+<font color=blue><font color=yellow>*</font>A subject such as cs,is,math,history....</font><br>
+
+<font color=yellow size=8>Reading and Writing Data </font><br>
+<font color=blue><font color=yellow>*</font>Two operation induced in c++ <B>cin&cout</B>.</font><br>
+<font color=blue><font color=yellow>*</font>cout used for output.</font><br>
+<font color=blue><font color=yellow>*</font>cin used for input.</font><br>
+<font color=blue><font color=yellow>*</font>cout represent with '<<' operater.</font><br>
+<font color=blue><font color=yellow>*</font>cin represent with '>>' operater.</font><br>
+
+<font color=blue size=8><center>QUICK QUIZ</center></font><br>
+<font color=blue ><font color=yellow>Q.</font> what is use of cout?</font><br>
+<font>(i).give the input</font><br>
+<font>(ii).give the output(ans)</font><br>
+<font>(iii).both</font><br>
+<font>(iv).none</font><br>
+
+<font color=blue ><font color=yellow>Q.</font> what is use of cin?</font><br>
+<font>(i).give the input(ans)</font><br>
+<font>(ii).give the output</font><br>
+<font>(iii).both</font><br>
+<font>(iv).none</font><br>
+
+
+<font color=blue ><font color=yellow>Q.</font> what is use to print a number?</font><br>
+<font>(i).cout(ans)</font><br>
+<font>(ii).cin</font><br>
+<font>(iii).both</font><br>
+<font>(iv).none</font><br>
+</body>
+</html>

@@ -1,0 +1,11 @@
+body{
+	background-image:url("html_image11.jpg");
+	background-size: 1600px;
+background-position:50% 50%;
+background-repeat:no-repeat;
+}
+h1{text-align: left;padding-left: 40px; padding-top: 20px;color: white}
+form{padding: 10px 10px 10px 10px;
+color:white;
+line-height: 50px}
+textarea{border:solid white 2px; width:400px; height:100px;

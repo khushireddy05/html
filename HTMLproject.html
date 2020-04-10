@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>
+Learning Management System
+</title>
+<link rel="stylesheet" type="text/css" href="htmlproject.css">
+</head>
+<body>
+<h1>LEARNING SYSTEM</h1>
+<p>change the way of learning</p>
+<form name="Login">
+	USERNAME<input type="text" name="userid"/><br>
+	PASSWORD<input type="password" name="pswrd"/><br>
+	<input type="button" onclick="check(this.form)" value="Login"/>
+	<input type="reset" value="Reset"/>
+	</form>
+	<script language="javascript">
+		function check(form)
+		{
+			if(form.userid.value =="Khushi" && form.pswrd.value == "12345")
+			{
+				window.open('HTMLproject1_form.html')
+			}
+			else
+			{
+				alert("Wrong Password or Username")
+			}
+		}
+	</script>
+</body>
+</html>
